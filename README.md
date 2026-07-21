@@ -1,6 +1,6 @@
 
 # Seminar-learning-from-demonstrations
-## Trajectory Generation, GMM/GMR Composition for 2D Handwriting
+#### Trajectory Generation, GMM/GMR Composition for 2D Handwriting
 
 
 ## Project Overview
